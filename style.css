@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    padding-left: 60px;
+    font-size: 21px;
+}
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.button {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(248, 171, 28);
+    border-radius: 50%;
+    color: rgba(12, 12, 12, 0.945);
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border: solid white;
+}
